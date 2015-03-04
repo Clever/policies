@@ -88,5 +88,5 @@ If you have any questions about this Privacy Policy or the Service, please conta
 
 Clever may modify or update this Privacy Policy from time to time so you should review this page periodically. [Click here](https://github.com/Clever/policies/commits/master/privacy-policy.md) to see all changes to this Privacy Policy. If we change the policy in a material manner, for example if we seek to use personal information in a materially different way than we had previously, we will provide at least 30 days notice  to the Schools so that you have sufficient time to evaluate the change in practice.  Of course, you can always opt-out by deleting your account before the changes take effect.
 
-This privacy policy was last modified on February 9, 2015.
-Effective Date: March 9, 2015.
+This privacy policy was last modified on March 3, 2015.
+Effective Date: April 3, 2015.
