@@ -1,6 +1,6 @@
 # Clever Additional Terms of Use for Schools
 
-_Effective Date: March 13, 2015_
+_Effective Date: March 19, 2015_
 
 Welcome to Clever’s Additional Terms of Use for Schools (the “Additional Terms”). If you are a School, please also review our [General Terms of Use](https://clever.com/about/terms) and our [Privacy Policy](https://clever.com/about/privacy-policy). If you’re not a School (as defined in the [General Terms of Use](https://clever.com/about/terms)), these Additional Terms do not apply to you.
 
