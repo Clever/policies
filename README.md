@@ -13,4 +13,4 @@ HOWTO: Open source your company's policies
 
 3. Use [Git branches](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/) and [Pull Requests](https://help.github.com/articles/using-pull-requests/) to manage changes in your policies.
 
-4. Let everyone know by tweeting your repository with the hashtag [#opensourceprivacy](https://twitter.com/search?q=opensourceprivacy&src=typd)
+4. Let everyone know by tweeting your repository with the hashtag [#opensourceprivacy](https://twitter.com/search?q=opensourceprivacy&src=typd) and request addition to [PrivacyByChoice](http://privacybychoice.github.io/) page.
