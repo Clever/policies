@@ -1,6 +1,6 @@
 # Clever Additional Terms of Use for Schools
 
-_Effective Date: March 19, 2015_
+_Effective Date: March 30, 2015_
 
 Welcome to Clever’s Additional Terms of Use for Schools (the “Additional Terms”). If you are a School, please also review our [General Terms of Use](https://clever.com/about/terms) and our [Privacy Policy](https://clever.com/about/privacy-policy). If you’re not a School (as defined in the [General Terms of Use](https://clever.com/about/terms)), these Additional Terms do not apply to you.
 
@@ -55,7 +55,7 @@ Within seventy-two (72) hours of our receipt of such notice of termination or ea
 
 ### Section 5. PRIVACY AND SECURITY
 
-We care deeply about the privacy and security of Student Data. We maintain strict administrative, technical, and physical safeguards to protect Student Data stored in our servers, which are located in the United States.  If there is any disclosure or access to any personally identifiable Student Data by an unauthorized party, we will promptly notify any affected Schools and will use reasonable efforts to cooperate with their investigations of the incident. If the incident triggers any third party notice requirements under applicable laws, you agree that, as the owner of the Student Data, you will be responsible for the timing, content, cost, and method of any required notice and compliance with those laws.
+We care deeply about the privacy and security of Student Data. We maintain strict administrative, technical, and physical safeguards to protect Student Data stored in our servers, which are located in the United States.  If there is any disclosure or access to any personally identifiable Student Data by an unauthorized party, we will promptly notify any affected Schools and will use reasonable efforts to cooperate with their investigations of the incident. If the incident triggers any third party notice requirements under applicable laws, you agree that, as the owner of the Student Data, you may be responsible for the timing, content, cost, and method of any required notice and compliance with those laws. However, at the request of the School and when permissible under applicable law, Clever agrees to bear responsibility for the timing, content and method of such required notice on behalf of the Schools. In all instances, Clever will indemnify Schools for all reasonable costs associated with compliance with such notice requirements arising from a breach of the Clever Service. For clarity and without limitation, Clever will not indemnify for any notification costs arising from a breach of a third party application whose service is accessed through the Clever Service.
 
 ### Section 6. QUESTIONS
 
