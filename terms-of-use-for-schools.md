@@ -2,7 +2,7 @@
 
 _Effective Date: March 30, 2015_
 
-Welcome to Clever’s Additional Terms of Use for Schools (the “Additional Terms”). If you are a School, please also review our [General Terms of Use](https://clever.com/about/terms) and our [Privacy Policy](https://clever.com/about/privacy-policy). If you’re not a School (as defined in the [General Terms of Use](https://clever.com/about/terms)), these Additional Terms do not apply to you.
+Welcome to Clever’s Additional Terms of Use for Schools (the “Additional Terms for Schools”). If you are a School, please also review our [General Terms of Use](https://clever.com/about/terms) and our [Privacy Policy](https://clever.com/about/privacy-policy). If you’re not a School (as defined in the [General Terms of Use](https://clever.com/about/terms)), these Additional Terms for Schools do not apply to you.
 
 Capitalized terms that are not defined below have the definitions given them in the [General Terms of Use](https://clever.com/about/terms).
 
@@ -30,18 +30,18 @@ We may disclose or provide access to Student Data to our employees and certain s
 
 Student Data is controlled by Schools, and we cannot permit anyone else to delete or control Student Data or to transfer such content, or allow access to Student Data by parents or legal guardians; as such, we refer any data access requests to the applicable School.
 
-### Section 3. HOW WE USE YOUR STUDENT DATA
+### SECTION 3. HOW WE USE YOUR STUDENT DATA
 
 **A. IN GENERAL**
 
-By submitting Student Data or other information to us, whether via the Services or otherwise, you expressly grant, and you represent and warrant that you have all rights necessary to grant, to us a non-exclusive, royalty-free, worldwide license during the term of these Additional Terms and our [General Terms of Use](https://clever.com/about/terms) to use, transmit, distribute, modify, reproduce, display, and store the Student Data only for the purposes of: (i) providing the Services as contemplated in these Additional Terms and our [General Terms of Use](https://clever.com/about/terms), and (ii) enforcing our rights under these Additional Terms and our [General Terms of Use](https://clever.com/about/terms). Subject to the Paragraph B below, we will not use the Student Data for any purpose except as explicitly authorized by these Additional Terms and our [General Terms of Use](https://clever.com/about/terms)._ For clarity and without limitation, we will not use Student Data to engage in targeted advertising._
+By submitting Student Data or other information to us, whether via the Services or otherwise, you expressly grant, and you represent and warrant that you have all rights necessary to grant, to us a non-exclusive, royalty-free, worldwide license during the term of these Additional Terms for Schools and our [General Terms of Use](https://clever.com/about/terms) to use, transmit, distribute, modify, reproduce, display, and store the Student Data only for the purposes of: (i) providing the Services as contemplated in these Additional Terms for Schools and our [General Terms of Use](https://clever.com/about/terms), and (ii) enforcing our rights under these Additional Terms for Schools and our [General Terms of Use](https://clever.com/about/terms). Subject to the Paragraph B below, we will not use the Student Data for any purpose except as explicitly authorized by these Additional Terms for Schools and our [General Terms of Use](https://clever.com/about/terms)._ For clarity and without limitation, we will not use Student Data to engage in targeted advertising._
 
 **B. ANONYMIZED DATA**
 
 You agree that we may collect and use data derived from Student Data, including data about any Users’ access and use of the Services, that has been anonymized, aggregated, or otherwise de-identified such that the data cannot reasonably identify a particular student, User, or School. We may use such data to operate, analyze, improve or market our Services. If we share or publicly disclose information (e.g., in marketing materials) that is derived from Student Data, that data will be aggregated or anonymized to reasonably avoid identification of a specific School or individual student.
 For example, we may (i) track the number of School administrators on an anonymized aggregate basis as part of our marketing efforts to publicize the total number of Users of the Services, and (ii) analyze aggregated usage patterns for product development efforts. You further agree that we may use, store, transmit, distribute, modify, copy, display, sublicense, and create derivative works of the anonymized, aggregated Student Data even after this Agreement has expired or been terminated.
 
-### Section 4. DELETING STUDENT DATA AND TERMINATING YOUR ACCESS TO THE SERVICES
+### SECTION 4. DELETING STUDENT DATA AND TERMINATING YOUR ACCESS TO THE SERVICES
 
 **A. DELETING STUDENT DATA**
 
@@ -49,16 +49,16 @@ You may request in writing that we delete any of your Student Data (except as pr
 
 **B. TERMINATING YOUR ACCESS TO THE SERVICES**
 
-Schools may, at any time and for any or no reason, terminate these Additional Terms and our [General Terms of Use](https://clever.com/about/terms) by providing written notice to [support@clever.com](mailto:support@clever.com), except that provisions that by their nature should survive termination will survive termination, such as provisions relating to warranty disclaimers, limitations of liability, indemnities, and governing law.
+Schools may, at any time and for any or no reason, terminate these Additional Terms for Schools and our [General Terms of Use](https://clever.com/about/terms) by providing written notice to [support@clever.com](mailto:support@clever.com), except that provisions that by their nature should survive termination will survive termination, such as provisions relating to warranty disclaimers, limitations of liability, indemnities, and governing law.
 
-Within seventy-two (72) hours of our receipt of such notice of termination or earlier if commercially reasonable to do so, we will cease accessing your SIS. We will automatically delete or de-identify all Student Data within seventy-two (72) hours of our receipt of the termination notice, except for Student Data residing on backups or internal logs which will be removed within sixty (60) days, and will provide notice to the School when Student Data has been deleted and/or anonymized as described in Section 3(B) above. As noted above, Student Data that has previously been made available to Developers may still be in Developers’ possession notwithstanding the School’s termination of these Additional Terms and our [General Terms of Use](https://clever.com/about/terms), and the Developer’s subsequent use or deletion will be governed by any agreements between School and Developers. We may terminate these Additional Terms and our [General Terms of Use](https://clever.com/about/terms) in accordance with the [General Terms of Use](https://clever.com/about/terms).
+Within seventy-two (72) hours of our receipt of such notice of termination or earlier if commercially reasonable to do so, we will cease accessing your SIS. We will automatically delete or de-identify all Student Data within seventy-two (72) hours of our receipt of the termination notice, except for Student Data residing on backups or internal logs which will be removed within sixty (60) days, and will provide notice to the School when Student Data has been deleted and/or anonymized as described in Section 3(B) above. As noted above, Student Data that has previously been made available to Developers may still be in Developers’ possession notwithstanding the School’s termination of these Additional Terms for Schools and our [General Terms of Use](https://clever.com/about/terms), and the Developer’s subsequent use or deletion will be governed by any agreements between School and Developers. We may terminate these Additional Terms for Schools and our [General Terms of Use](https://clever.com/about/terms) in accordance with the [General Terms of Use](https://clever.com/about/terms).
 
-### Section 5. PRIVACY AND SECURITY
+### SECTION 5. PRIVACY AND SECURITY
 
 We care deeply about the privacy and security of Student Data. We maintain strict administrative, technical, and physical safeguards to protect Student Data stored in our servers, which are located in the United States.  If there is any disclosure or access to any personally identifiable Student Data by an unauthorized party, we will promptly notify any affected Schools and will use reasonable efforts to cooperate with their investigations of the incident. If the incident triggers any third party notice requirements under applicable laws, you agree that, as the owner of the Student Data, you may be responsible for the timing, content, cost, and method of any required notice and compliance with those laws. However, at the request of the School and when permissible under applicable law, Clever agrees to bear responsibility for the timing, content and method of such required notice on behalf of the Schools. In all instances, Clever will indemnify Schools for all reasonable costs associated with compliance with such notice requirements arising from a breach of the Clever Service. For clarity and without limitation, Clever will not indemnify for any notification costs arising from a breach of a third party application whose service is accessed through the Clever Service.
 
-### Section 6. QUESTIONS
+### SECTION 6. QUESTIONS
 
-We here at Clever hope that you will have the best possible experience when using our Services. If you have any questions or concerns about our Services or anything in our [General Terms of Use](https://clever.com/about/terms), these Additional Terms, or our [Privacy Policy](https://clever.com/about/privacy-policy), please don’t hesitate to contact us at [support@clever.com](mailto:support@clever.com) and we’ll do our best to promptly respond to you.
+We here at Clever hope that you will have the best possible experience when using our Services. If you have any questions or concerns about our Services or anything in our [General Terms of Use](https://clever.com/about/terms), these Additional Terms for Schools, or our [Privacy Policy](https://clever.com/about/privacy-policy), please don’t hesitate to contact us at [support@clever.com](mailto:support@clever.com) and we’ll do our best to promptly respond to you.
 
 Thanks for reading!
