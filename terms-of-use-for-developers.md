@@ -2,9 +2,9 @@
 
 _Effective Date: Jan 6, 2017_
 
-Welcome to Clever’s Additional Terms of Use for Developers (the “Additional Terms for Developers”). If you are a Developer, please also review our [General Terms of Use](https://clever.com/about/terms) and our [Privacy Policy](https://clever.com/about/privacy-policy). If you’re not a Developer (as defined in the [General Terms of Use](https://clever.com/about/terms)), these Additional Terms for Developers do not apply to you.
+Welcome to Clever’s Additional Terms of Use for Developers (the “Additional Terms for Developers”). If you are a Developer, please also review our [General Terms of Use](general-terms-of-use.md) and our [Privacy Policy](privacy-policy.md). If you’re not a Developer (as defined in the [General Terms of Use](general-terms-of-use.md)), these Additional Terms for Developers do not apply to you.
 
-Capitalized terms that are not defined below have the definitions given them in the [General Terms of Use](https://clever.com/about/terms).
+Capitalized terms that are not defined below have the definitions given them in the [General Terms of Use](general-terms-of-use.md).
 
 ### SECTION 1. DEFINITIONS
 
@@ -26,7 +26,7 @@ Schools may use the Services to authorize you and other third-party Developers t
 
 Subject to the terms of the Agreement, Clever hereby grants to you a personal, limited, nonexclusive, nontransferable, revocable, non-sublicensable right and license to access and use the Documentation, and to modify such example code included therein, for the sole purpose of developing, supporting and maintaining the Data Integration (as defined below).
 
-In addition to the restrictions regarding your use of the Services set forth in the [General Terms of Use](https://clever.com/about/terms), you will not, and will not permit others to: (i) modify, translate, reproduce, or create derivative works based on the Services or components thereof, (ii) modify, translate, reverse engineer, decompile, disassemble or otherwise attempt to derive the source code or the underlying ideas, algorithms, structure or organization from the Services or components thereof (except to the extent expressly permitted by herein or as permitted by law), or (iii) distribute, rent, loan, lease, transfer, use in a service bureau or grant any rights in the Services or components thereof in any form to any person except to the extent expressly permitted under this Agreement or with the prior written consent of Clever.
+In addition to the restrictions regarding your use of the Services set forth in the [General Terms of Use](general-terms-of-use.md), you will not, and will not permit others to: (i) modify, translate, reproduce, or create derivative works based on the Services or components thereof, (ii) modify, translate, reverse engineer, decompile, disassemble or otherwise attempt to derive the source code or the underlying ideas, algorithms, structure or organization from the Services or components thereof (except to the extent expressly permitted by herein or as permitted by law), or (iii) distribute, rent, loan, lease, transfer, use in a service bureau or grant any rights in the Services or components thereof in any form to any person except to the extent expressly permitted under this Agreement or with the prior written consent of Clever.
 
 You may order a New Module at the then-current list price and subject to a separate Order Form, provided that you are in compliance with the terms and conditions of this Agreement. Until you have purchased the rights to access and use a New Module, you do not have any right hereunder to receive or use New Modules.
 
@@ -56,7 +56,7 @@ If any invoiced amount is not received by us by the due date, then without limit
 
 All fees are exclusive of all taxes, levies, or duties, and Developer will be responsible for payment of all such taxes, levies, or duties, excluding U.S. (federal or state) taxes based solely on Clever’s net income.  Developer will pay all fees free and clear of, and without reduction for, any sales tax, VAT, withholding, or similar taxes; any such taxes imposed on payments of fees will be Developer’s responsibility, and Developer will provide the appropriate documentation to establish that such taxes have been remitted to the appropriate taxing agency if applicable
 
-If any amount owing by you under this or any other agreement for our Services is 30 or more days overdue (or 10 or more days overdue in the case of amounts you have authorized us to charge to your credit card), we may, without limiting our other rights and remedies, accelerate your unpaid fee obligations under such agreements so that all such obligations become immediately due and payable, and suspend our Services to you until such amounts are paid in full. Except for Services that are to be paid by credit card and such payment has been declined, we will give you at least 10 days’ prior notice that your account is overdue, in accordance with the notice provisions set forth in the [General Terms of Use](https://clever.com/about/terms) before suspending Services to you. We will not exercise our rights above if you are disputing the applicable charges reasonably and in good faith and are cooperating diligently to resolve the dispute.
+If any amount owing by you under this or any other agreement for our Services is 30 or more days overdue (or 10 or more days overdue in the case of amounts you have authorized us to charge to your credit card), we may, without limiting our other rights and remedies, accelerate your unpaid fee obligations under such agreements so that all such obligations become immediately due and payable, and suspend our Services to you until such amounts are paid in full. Except for Services that are to be paid by credit card and such payment has been declined, we will give you at least 10 days’ prior notice that your account is overdue, in accordance with the notice provisions set forth in the [General Terms of Use](general-terms-of-use.md) before suspending Services to you. We will not exercise our rights above if you are disputing the applicable charges reasonably and in good faith and are cooperating diligently to resolve the dispute.
 
 ### SECTION 5. SECURITY
 
@@ -68,7 +68,7 @@ For the duration of this Agreement, you will maintain and implement an effective
 
 The Application(s), your Marks (as defined below), your Confidential Information and the software or other technology that you develop in connection with the Data Integration, and all related Intellectual Property Rights are your and your licensors’ exclusive property.
 
-As set forth in the [General Terms of Use](https://clever.com/about/terms), as between each School, you, and us, each School owns and retains all right, title and interest in the applicable School Data.
+As set forth in the [General Terms of Use](general-terms-of-use.md), as between each School, you, and us, each School owns and retains all right, title and interest in the applicable School Data.
 
 The APIs (including any and all API Updates), the Documentation, Clever’s Marks and Clever’s Confidential Information and the software or other technology that Clever develops in connection with the Data Integration, and all related Intellectual Property Rights are the exclusive property of Clever and its licensors. All rights not granted are expressly reserved. Except as expressly stated herein, nothing in this Agreement shall confer to Developer or any other party any license or right of ownership in material owned by Clever, whether by implication, estoppel, or otherwise.
 
@@ -104,6 +104,6 @@ You agree to defend any and all claims, suits, actions or proceedings brought by
 
 ### SECTION 11. QUESTIONS
 
-We here at Clever hope that you will have the best possible experience when using our Services. If you have any questions or concerns about our Services or anything in our [General Terms of Use](https://clever.com/about/terms), these Additional Terms for Developers, or our [Privacy Policy](https://clever.com/about/privacy-policy), please don’t hesitate to contact us at [support@clever.com](mailto:support@clever.com) and we’ll do our best to promptly respond to you.
+We here at Clever hope that you will have the best possible experience when using our Services. If you have any questions or concerns about our Services or anything in our [General Terms of Use](general-terms-of-use.md), these Additional Terms for Developers, or our [Privacy Policy](privacy-policy.md), please don’t hesitate to contact us at [support@clever.com](mailto:support@clever.com) and we’ll do our best to promptly respond to you.
 
 Thanks for reading!
