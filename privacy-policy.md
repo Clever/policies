@@ -6,14 +6,14 @@ Capitalized terms that are not defined in this Privacy Policy have the meaning g
 
 Click on the links below to jump to each section:
 
-1.  [How We Collect and Use Information](#how_we_collect_and_use_information)
-2.  [Sharing of Your Information](#how_we_share_information)
-3.  [How We Store and Protect Your Information](#how_we_protect_your_information)
-4.  [Your Choices About Your Information](#your_choices_about_your_information)
-5.  [Children’s Privacy](#childrens_privacy)
-6.  [Links to Other Websites and Services](#links_to_other_web_sites_and_services)
-7.  [How to Contact Us](#how_to_contact_us)
-8.  [Changes to Our Privacy Policy](#changes_to_our_privacy_policy)
+1.  [How We Collect and Use Information](#1-how-we-collect-and-use-information)
+2.  [How We Share Your Information](#2-how-we-share-your-information)
+3.  [How We Store and Protect Your Information](#3-how-we-store-and-protect-your-information)
+4.  [Your Choices About Your Information](#4-your-choices-about-your-information)
+5.  [Children’s Privacy](#5-childrens-privacy)
+6.  [Links to Other Websites and Services](#6-links-to-other-web-sites-and-services)
+7.  [How to Contact Us](#7-how-to-contact-us)
+8.  [Changes to Our Privacy Policy](#8-changes-to-our-privacy-policy)
 
 ## _We strive to be transparent in our data collection and use practices. This is the type of personal information we may collect._
 
@@ -27,7 +27,7 @@ We collect the following types of information:
 
 Clever has access to Student Data only as requested by the School and only for the purposes of performing Services on the School’s behalf.  If you are a Student or parent, please contact your School if you have questions about the School’s use of technology service providers like Clever. If a Student contacts Clever with a question about our Service, we will collect personal information from that Student only as necessary to respond to the Student’s request and direct the Student to contact the Student’s School, and we will then delete or anonymize the personal data of the Student after providing our response.
 
-See [How We Share Your Information](#how_we_share_information) below for more information on the limited ways in which we share School and Student Data.  See "[Children’s Privacy](#childrens-privacy)" below for more information on how we collect and use the personal information of children under 13.
+See [How We Share Your Information](#2-how-we-share-your-information) below for more information on the limited ways in which we share School and Student Data.  See "[Children’s Privacy](#5-childrens-privacy)" below for more information on how we collect and use the personal information of children under 13.
 
 **Information collected through technology:** We automatically collect certain types of usage information when visitors view our website or use our service. We may send one or more cookies — a small text file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser and lets Clever help you log in faster and enhance your navigation through the site. A cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click and other actions you take on the Service), and allow us to track your usage of the Service over time. We may collect log file information from your browser or mobile device each time you access the Service. Log file information may include anonymous information such as your web request, Internet Protocol (“IP”) address, browser type, information about your mobile device, number of clicks and how you interact with links on the Service, pages viewed, and other such information. We may employ clear gifs (also known as web beacons) which are used to anonymously track the online usage patterns of our Users. In addition, we may also use clear gifs in HTML-based emails sent to our Schools to track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of the Service. We may also collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Service. <u>We do not allow third party advertising networks to collect information about the users of our Site or Service.</u>
 
