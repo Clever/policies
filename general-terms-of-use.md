@@ -2,7 +2,7 @@
 
 _Effective Date: Jan 6, 2017_
 
-Welcome to Clever! We’re delighted to have you on our website and maybe even using our service (the “Services”). Please continue reading to learn about the terms by which you may use our Services. If you have questions about this Agreement, please contact us at [support@clever.com](mailto:support@clever.com).
+Welcome to Clever! We’re delighted to have you on our website and maybe even using our service (the “Services”). Please continue reading to learn about the terms by which you may use our Services. If you have questions about this Agreement, please contact us by visiting our [Help Center](https://support.clever.com/).
 
 These General Terms of Use apply to all: (i) schools, school districts, and related entities and organizations that sign up to use the Services, including but not limited to administrators who access the Services on their behalf (each a “School”); (ii) non-School visitors, users, and others, including students, teachers, and their parents, who use the Services; and (iii) third-party providers of applications (each a “Developer” and collectively with  the individuals referenced in (ii) above and Schools, the “Users” or “you”). If you’re a School, our [Additional Terms of Use for Schools](terms-of-use-for-schools.md) apply to you too. If you’re a Developer, our [Additional Terms of Use for Developers](terms-of-use-for-developers.md) apply to you too. These General Terms of Use, the [Additional Terms of Use for Schools](terms-of-use-for-schools.md) (as applicable to Schools) and the [Additional Terms of Use for Developers](terms-of-use-for-developers.md) (as applicable to Developers) are collectively referred to herein as the “Agreement”.
 
@@ -68,7 +68,7 @@ You agree to defend, indemnify and hold harmless Clever and its subsidiaries, ag
 
 **v) WARRANTY DISCLAIMER**
 
-These next few sections are in all caps so we can be sure we have your attention. Again, please feel free to contact us at [support@clever.com](mailto:support@clever.com) if any of this is unclear or if you have any questions about what these sections mean.
+These next few sections are in all caps so we can be sure we have your attention. Again, please feel free to contact us by visiting our [Help Center](https://support.clever.com/) if any of this is unclear or if you have any questions about what these sections mean.
 
 THE SERVICES IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. USE OF THE SERVICES IS AT YOUR OWN RISK. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SERVICES IS PROVIDED WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. WITHOUT LIMITING THE FOREGOING, CLEVER, ITS SUBSIDIARIES, ITS AFFILIATES, AND ITS LICENSORS DO NOT WARRANT THAT THE CONTENT IS ACCURATE, RELIABLE OR CORRECT; THAT THE SERVICES WILL MEET YOUR REQUIREMENTS; THAT THE SERVICES WILL BE AVAILABLE AT ANY PARTICULAR TIME OR LOCATION, UNINTERRUPTED; THAT ANY DEFECTS OR ERRORS WILL BE CORRECTED; OR THAT THE SERVICES IS FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. ANY CONTENT DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICES IS DOWNLOADED AT YOUR OWN RISK AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM SUCH DOWNLOAD OR YOUR USE OF THE SERVICES.
 

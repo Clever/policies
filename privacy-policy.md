@@ -62,13 +62,13 @@ Who we may share information with:
 
 *Account information and settings:* Schools may update account information and modify Services by signing into the administrator account.  Schools and other website visitors can opt-out of receiving promotional email from us by clicking on the “unsubscribe” feature at the bottom of each email. Sorry, you cannot unsubscribe from Service-related messaging.
 
-If you have any questions about reviewing or modifying account information, contact us directly at [support@clever.com](mailto:support@clever.com).
+If you have any questions about reviewing or modifying account information, contact us directly by visiting our [Help Center](https://support.clever.com/).
 
 *Access to Student Data:* Student Data is provided and controlled by the Schools. If you have any questions about reviewing, modifying, or deleting personal information of a student, please contact your School directly.
 
 Deleting or disabling cookies: You may be able to disallow cookies to be set on your browser. Please look for instructions on how to delete or disable cookies and other tracking/recording tools on your browser’s technical settings. You may not be able to delete or disable cookies on certain mobile devices and/or certain browsers. For more information on cookies, visit [www.allaboutcookies.org](www.allaboutcookies.org). Remember, disabling cookies may disable many of the features available on the Service, so we recommend you leave cookies enabled.
 
-How long we keep User Content: Following termination or deactivation of a School account, Clever may retain profile information and content for a commercially reasonable time for backup, archival, or audit purposes, but any and all Student Data associated with the School will be deleted promptly.  We may maintain anonymized or aggregated data, including usage data, for analytics purposes. If you have any questions about data retention or deletion, please contact [support@clever.com](mailto:support@clever.com).
+How long we keep User Content: Following termination or deactivation of a School account, Clever may retain profile information and content for a commercially reasonable time for backup, archival, or audit purposes, but any and all Student Data associated with the School will be deleted promptly.  We may maintain anonymized or aggregated data, including usage data, for analytics purposes. If you have any questions about data retention or deletion, please contact us by visiting our [Help Center](https://support.clever.com/).
 
 ## _We do not collect any information from students without consent._
 
@@ -82,7 +82,7 @@ We are not responsible for the practices employed by websites, applications or s
 
 ### 7. HOW TO CONTACT US
 
-If you have any questions about this Privacy Policy or the Service, please contact us at [support@clever.com](mailto:support@clever.com).
+If you have any questions about this Privacy Policy or the Service, please contact us by visiting our [Help Center](https://support.clever.com/).
 
 ### 8. CHANGES TO OUR PRIVACY POLICY
 

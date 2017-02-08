@@ -104,6 +104,6 @@ You agree to defend any and all claims, suits, actions or proceedings brought by
 
 ### SECTION 11. QUESTIONS
 
-We here at Clever hope that you will have the best possible experience when using our Services. If you have any questions or concerns about our Services or anything in our [General Terms of Use](general-terms-of-use.md), these Additional Terms for Developers, or our [Privacy Policy](privacy-policy.md), please don’t hesitate to contact us at [support@clever.com](mailto:support@clever.com) and we’ll do our best to promptly respond to you.
+We here at Clever hope that you will have the best possible experience when using our Services. If you have any questions or concerns about our Services or anything in our [General Terms of Use](general-terms-of-use.md), these Additional Terms for Developers, or our [Privacy Policy](privacy-policy.md), please don’t hesitate to contact us by visiting our [Help Center](https://support.clever.com/) and we’ll do our best to promptly respond to you.
 
 Thanks for reading!
