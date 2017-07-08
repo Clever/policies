@@ -1,6 +1,6 @@
 # Clever Additional Terms of Use for Schools
 
-_Effective Date: March 30, 2015_
+_Effective Date: July 8, 2017_
 
 Welcome to Clever’s Additional Terms of Use for Schools (the “Additional Terms for Schools”). If you are a School, please also review our [General Terms of Use](general-terms-of-use.md) and our [Privacy Policy](privacy-policy.md). If you’re not a School (as defined in the [General Terms of Use](general-terms-of-use.md)), these Additional Terms for Schools do not apply to you.
 
@@ -28,13 +28,13 @@ We may disclose or provide access to Student Data to our employees and certain s
 
 **C. OTHER ACCESS**
 
-Student Data is controlled by Schools, and we cannot permit anyone else to delete or control Student Data or to transfer such content, or allow access to Student Data by parents or legal guardians; as such, we refer any data access requests to the applicable School.
+Student Data is controlled by Schools. Parents, legal guardians, and students can ask for their Student Data via their Schools. If there are any changes that need to be made in Clever, the district will upload the new Student Data to Clever.
 
 ### SECTION 3. HOW WE USE YOUR STUDENT DATA
 
 **A. IN GENERAL**
 
-By submitting Student Data or other information to us, whether via the Services or otherwise, you expressly grant, and you represent and warrant that you have all rights necessary to grant, to us a non-exclusive, royalty-free, worldwide license during the term of these Additional Terms for Schools and our [General Terms of Use](general-terms-of-use.md) to use, transmit, distribute, modify, reproduce, display, and store the Student Data only for the purposes of: (i) providing the Services as contemplated in these Additional Terms for Schools and our [General Terms of Use](general-terms-of-use.md), and (ii) enforcing our rights under these Additional Terms for Schools and our [General Terms of Use](general-terms-of-use.md). Subject to the Paragraph B below, we will not use the Student Data for any purpose except as explicitly authorized by these Additional Terms for Schools and our [General Terms of Use](general-terms-of-use.md)._ For clarity and without limitation, we will not use Student Data to engage in targeted advertising._
+By submitting Student Data or other information to us, whether via the Services or otherwise, you expressly grant, and you represent and warrant that you have all rights necessary to grant, to us a non-exclusive, royalty-free, worldwide license during the term of these Additional Terms for Schools and our [General Terms of Use](general-terms-of-use.md) to use, transmit, distribute, modify, reproduce, display, and store the Student Data only for the purposes of: (i) providing the Services as contemplated in these Additional Terms for Schools and our [General Terms of Use](general-terms-of-use.md), and (ii) enforcing our rights under these Additional Terms for Schools and our [General Terms of Use](general-terms-of-use.md). Subject to the Paragraph B below, we will not use the Student Data for any purpose except as explicitly authorized by these Additional Terms for Schools and our [General Terms of Use](general-terms-of-use.md)._For clarity and without limitation, we will not use Student Data to engage in targeted advertising._
 
 **B. ANONYMIZED DATA**
 
