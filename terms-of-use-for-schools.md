@@ -59,13 +59,9 @@ We care deeply about the privacy and security of Student Data. We maintain stric
 
 ### SECTION 6. CLEVER GOALS
 
-Clever Goals may be purchased as an additional feature to enhance your use of the Services. The Clever Goals service allows you to: (i) set certain usage and progress goals (the “Goals”) related to your and Users’ use of third-party provided applications made available via the Services (each, an “Application”), (ii) aggregate certain data points related to your and Users’ use of Applications to enable you to track actual usage of the Applications and progress related to the Goals; and (iii) export certain data points from the Services to allow you to store and further use these data points (the service collectively, “Clever Goals”).
+Clever Goals may be purchased as an additional feature to enhance your use of the Services. The Clever Goals service allows you to: (i) set certain usage and progress goals (the “Goals”) related to your and Users’ use of third-party provided applications made available via the Services (each, an “Application”), (ii) collect metrics from Developers related to your and Users’ use of Applications to enable you to track actual usage of the Applications and progress related to the Goals; and (iii) export certain data points from the Services to allow you to store and further use these data points (the service collectively, “Clever Goals”).
 
-To the extent a School utilizes Clever Goals, Clever will access Student Data that is collected, maintained, created or processed by the Developer of each Application for the purpose of providing the Clever Goals functionality. You are responsible for providing all necessary consents, if needed, for each Developer to provide access to Student Data to Clever for this purpose.
-
-Clever may disclose analytics data derived from Clever Goals with the Application Developer, provided that such analytics data relates solely to the Application Developer and does not contain any Student Data that was not independently known to the third-party Developer. The third-party Developer shall own and control its use of the analytics data, subject to the terms and agreements between you and the third-party Developer.  
-
-If you purchase access and use of the Clever Goals via an Order Form (as defined below), then during the term of the applicable Order form, Clever will use commercially reasonable efforts to host, operate and maintain Clever Goals for your use in accordance with the Agreement and the applicable Order Form. For avoidance of doubt, Clever Goals is deemed a part of the Services.
+To the extent a School utilizes Clever Goals, Clever will access Student Data that is collected, maintained, created or processed by the Developer of each Application for the sole purpose of providing the Clever Goals functionality. You are responsible for providing all necessary consents, if needed, for each Developer to provide access to Student Data to Clever for this purpose.
 
 ### SECTION 7: FEES AND PAYMENT TERMS
 
