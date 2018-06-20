@@ -1,6 +1,6 @@
 # Universal Data Sharing Agreement
 
-**This data sharing agreement was last modified on February 2, 2018.**
+**This data sharing agreement was last modified on June 19, 2018.**
 
 These data privacy and usage terms (the “**Universal Data Sharing Agreement**”) apply to all: (i) schools, school districts, and related organizations (collectively, the “**School**”) that use the Clever Platform (as defined below) to purchase the rights to use the education related applications and services provided by Developers (the “**Developer Product(s)**”); and (ii) providers of Developer Products (each a “**Developer**”).
 
@@ -70,7 +70,7 @@ The capitalized defined terms used in this Universal Data Sharing Agreement will
 
 **4.7 Transfer to a Personal Account.**  Notwithstanding anything to the contrary in the foregoing, nothing will impede Developer’s ability to allow students to download, export, or otherwise save or maintain their own student-created data and documents to a personal account, consistent with the functionality of the Developer Product.
 
-**4.8 Change of Control.**  In the event Developer sells, divests, or transfers all or a portion of its business assets to a third party, Developer may transfer Student Data to the new owner only to the extent the new corporate owner intends to maintain and provide the Developer Product as a going concern and the new owner has agreed to data privacy standards no less stringent than those provided herein. Developer will give notice to School and an opportunity to opt out of the transfer of Student Data.
+**4.8 Change of Control.**  In the event Developer sells, divests, or transfers all or a portion of its business assets to a third party, Developer may transfer Student Data to the new owner provided that (i) the new corporate owner intends to maintain and provide the Developer Product as a going concern and the new owner has agreed to data privacy standards no less stringent than those provided herein, or (ii) Developer will give notice to School and an opportunity to opt out of the transfer of Student Data.
 
 ## 5. DATA SECURITY AND DATA BREACH
 
