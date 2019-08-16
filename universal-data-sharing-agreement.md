@@ -1,6 +1,6 @@
 # Universal Data Sharing Agreement
 
-**This data sharing agreement was last modified on August 23, 2018.**
+**This data sharing agreement was last modified on August 23, 2018.** [View signed agreements by applications](https://drive.google.com/drive/folders/1au6nts3oNzTi7do573qwnJs8gymrSWdf?usp=sharing)
 
 These data privacy and usage terms (the “**Universal Data Sharing Agreement**”) apply to all: (i) schools, school districts, and related organizations (collectively, the “**School**”) that use the Clever Platform (as defined below) to procure the rights to use the education related applications and services provided by Developers (the “**Developer Product(s)**”); and (ii) providers of Developer Products (each a “**Developer**”).
 
