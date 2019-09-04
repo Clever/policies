@@ -66,6 +66,8 @@ Who we may share information with:
 
 **Keeping information safe:** Clever maintains strict administrative, technical and physical procedures to protect information stored in our servers, which are located in the United States. Access to information is limited (through user/password credentials and two factor authentication) to those employees who require it to perform their job functions. We use industry-standard Secure Socket Layer (SSL) encryption technology to safeguard the account registration process and sign-up information. Other security safeguards include but are not limited to data encryption, firewalls, and physical access controls to building and files.
 
+**Unauthorized disclosure:** If there is any disclosure or access to any personally identifiable Student Data by an unauthorized party, we will promptly notify any affected Schools and will use reasonable efforts to cooperate with their investigations of the incident.
+
 ## _Questions about data? Here are your options._
 
 ### 4. YOUR CHOICES ABOUT YOUR INFORMATION
