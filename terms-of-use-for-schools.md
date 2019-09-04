@@ -18,7 +18,7 @@ Both parties agree to uphold their responsibilities under the Family Educational
 
 **A. OUR ACCESS**
 
-You authorize us to access Student Data and will provide a way for us access the information stored in your SIS. We will access and process Student Data only in order to provide the Services. As between us, you own all right, title and interest to all Student Data, you are (and other Schools are) solely responsible for any and all Student Data, whether provided by you, students, or others, and we do not own, control, or license Student Data, except to provide the Services.
+You authorize us to access Student Data and will provide a way for us access the information stored in your SIS. We will access and process Student Data only in order to provide the Services. As between us, you own all right, title and interest to all Student Data, you are (and other Schools are) solely responsible for any and all Student Data, whether provided by you, students, or others, and we do not own, control, or license Student Data, except to provide the Services. We will ensure that all of our employees with access to Student Data have passed a background check and received annual training on how to maintain the security and confidentiality of student records.
 
 **B. THIRD PARTY ACCESS**
 
