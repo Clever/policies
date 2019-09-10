@@ -4,7 +4,7 @@ Clever is a proud signatory of the [Student Data Privacy Pledge](https://student
 
 Clever ("Clever," "we," or "us") understands that privacy is tremendously important to our online visitors to our website ("Website Visitors"), to schools who use our Service ("Schools"), and to students whose information we may access on behalf of a School ("Students"). Clever provides a platform that enables Schools to securely provision the accounts with the third-party applications, that they use. As we describe below, Schools decide which data is integrated with Clever, and Schools are responsible for determining whether data is ever shared with applications through Clever. This privacy policy applies to our website [https://clever.com](https://clever.com/) and to the Clever platform (our "Service") and describes the steps we take to protect your data.
 
-Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](https://github.com/Clever/policies/blob/master/general-terms-of-use.md).
+Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](general-terms-of-use.md).
 
 Click on the links below to jump to each section:
 
@@ -51,7 +51,7 @@ Who we may share information with:
 
 *   We share information within the Service as needed to perform the Service and/or at the direction of the School. For example, information including Student Data, will be shared between and among authorized School users such as teachers and School administrators. This sharing will depend on the settings and functionality selected by the School. 
 *   We may share information with our trusted third party service providers who perform technology services on our behalf (e.g. web hosting and analytics services), but strictly for the purpose of carrying out their work for us. Contractors and service providers who may have access to Student Data in the course of performing their services are subject to confidentiality and data security requirements.
-*   We may be required to share information with law enforcement or other third parties when compelled to do so by court order or other legal process, to comply with statutes or regulations, to enforce our Terms of Use https://clever.com/about/terms/, or if we believe in good faith that the disclosure is necessary to protect the rights, property or personal safety of our users.  
+*   We may be required to share information with law enforcement or other third parties when compelled to do so by court order or other legal process, to comply with statutes or regulations, to enforce our [Terms of Use](general-terms-of-use.md) , or if we believe in good faith that the disclosure is necessary to protect the rights, property or personal safety of our users.  
 *   We may share information in an aggregated and/or anonymous form that does not reasonably identify an individual or School. For example, we may use and share aggregate or anonymized data to study and improve our Service, user functionality, and product offerings.  
 
 **In the event of a change of control:** If we sell, divest or transfer our business, we will not transfer personal information of our customers unless the new owner intends to maintain and provide the Service as a going concern, and provided that the new owner has agreed to data privacy standards no less stringent than our own. In such case we will provide you with notice and an opportunity to opt-out of the transfer of personally identifiable Student Data.
@@ -96,7 +96,7 @@ If a Student contacts Clever with a question about our Service, we will collect 
 
 ### 8. CHANGES TO OUR PRIVACY POLICY
 
-Clever may modify or update this Privacy Policy from time to time so you should review this page periodically. [Click here](https://github.com/Clever/policies/commits/master/privacy-policy.md)  to see all changes to this Privacy Policy. If we change the policy in a material manner, for example if we seek to use personal information in a materially different way than we had previously, we will provide at least 30 days notice to the Schools so that you have sufficient time to evaluate the change in practice. Of course, you can always opt-out by deleting your account before the changes take effect.
+Clever may modify or update this Privacy Policy from time to time so you should review this page periodically. [Click here](privacy-policy.md)  to see all changes to this Privacy Policy. If we change the policy in a material manner, for example if we seek to use personal information in a materially different way than we had previously, we will provide at least 30 days notice to the Schools so that you have sufficient time to evaluate the change in practice. Of course, you can always opt-out by deleting your account before the changes take effect.
 
 This privacy policy was last modified on April 2, 2018.
 Effective Date: May 2, 2018

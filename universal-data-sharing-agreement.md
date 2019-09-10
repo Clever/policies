@@ -20,7 +20,7 @@ This Universal Data Sharing Agreement is hereby attached to and incorporated int
 
 The capitalized defined terms used in this Universal Data Sharing Agreement will have the meanings set forth in this Section 1 and as otherwise defined herein.
 
-**1.1 “Clever Platform”** means either: (i) the “Clever Platform” as defined in the Clever Developer Agreement by and between Clever and Developer, or (ii) the “Services” as defined in the Clever Services Agreement located at https://clever.com/about/terms by and between Clever and School or Developer;  depending on which agreement is applicable.
+**1.1 “Clever Platform”** means either: (i) the “Clever Platform” as defined in the Clever Developer Agreement by and between Clever and Developer, or (ii) the “Services” as defined in the Clever Services Agreement located at https://clever.com/trust/terms by and between Clever and School or Developer;  depending on which agreement is applicable.
 
 **1.2 “De-identified Data**” means the Student Data from which all Personally Identifiable Information, including direct and indirect identifiers, has been permanently removed or obscured so the remaining information does not reasonably identify an individual and there is no reasonable basis to believe that the information can be used to identify an individual.
 
