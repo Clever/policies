@@ -92,12 +92,14 @@ We are not responsible for the practices employed by websites, applications or s
 
 ### 7. HOW TO CONTACT US
 
-If you have any questions about this Privacy Policy or the Service, we recommend contacting us by visiting our [Help Center](https://support.clever.com/).
+If you have any questions about this Privacy Policy or the Service, we recommend contacting us by visiting our [Help Center](https://support.clever.com/). 
 
 Additionally, Clever can be reached:
-* By Email: privacy@clever.com
+* By Email: [trust@clever.com](mailto:trust@clever.com)
 * By Mail: Clever Inc, ATTN: Dan Carroll, 1263 Mission St, San Francisco CA 94103
 * By Phone: 1-800-521-6516
+
+If you are not satisfied with our response, you can contact the iKeepSafe Safe Harbor Program's dedicated consumer complaint department at: [coppaprivacy@ikeepsafe.org](coppaprivacy@ikeepsafe.org).
 
 If a Student contacts Clever with a question about our Service, we will collect personal information from that Student only as necessary to respond to the Student's request and direct the Student to contact the Student's School, and we will then delete or anonymize the personal data of the Student after providing our response.
 
