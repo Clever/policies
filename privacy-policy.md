@@ -66,6 +66,8 @@ Who we may share information with:
 
 **Keeping information safe:** Clever maintains strict administrative, technical and physical procedures to protect information stored in our servers, which are located in the United States. Access to information is limited (through user/password credentials and two factor authentication) to those employees who require it to perform their job functions. We use industry-standard Secure Socket Layer (SSL) encryption technology to safeguard the account registration process and sign-up information. Other security safeguards include but are not limited to data encryption, firewalls, and physical access controls to building and files.
 
+**Unauthorized disclosure:** If there is any disclosure or access to any personally identifiable Student Data by an unauthorized party, we will promptly notify any affected Schools and will use reasonable efforts to cooperate with their investigations of the incident.
+
 ## _Questions about data? Here are your options._
 
 ### 4. YOUR CHOICES ABOUT YOUR INFORMATION
@@ -90,7 +92,14 @@ We are not responsible for the practices employed by websites, applications or s
 
 ### 7. HOW TO CONTACT US
 
-If you have any questions about this Privacy Policy or the Service, please contact us by visiting our [Help Center](https://support.clever.com/).
+If you have any questions about this Privacy Policy or the Service, we recommend contacting us by visiting our [Help Center](https://support.clever.com/). 
+
+Additionally, Clever can be reached:
+* By Email: [trust@clever.com](mailto:trust@clever.com)
+* By Mail: Clever Inc, ATTN: Dan Carroll, 1263 Mission St, San Francisco CA 94103
+* By Phone: 1-800-521-6516
+
+If you are not satisfied with our response, you can contact the iKeepSafe Safe Harbor Program's dedicated consumer complaint department at: [coppaprivacy@ikeepsafe.org](mailto:coppaprivacy@ikeepsafe.org).
 
 If a Student contacts Clever with a question about our Service, we will collect personal information from that Student only as necessary to respond to the Student's request and direct the Student to contact the Student's School, and we will then delete or anonymize the personal data of the Student after providing our response.
 
