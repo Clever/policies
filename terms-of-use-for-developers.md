@@ -10,7 +10,7 @@ Capitalized terms that are not defined below have the definitions given them in 
 
 “Application” means your products and services that are listed on each Order Form.
 
-“Documentation” means the manuals, specifications, requirements, support documentation, example code, tools, any and all of the application programming interface(s) that Clever makes generally available to Developers for access and use hereunder (collectively the “APIs”) and other instructions regarding the capabilities, operation, integration and use of the Services that Clever makes generally available to all of its Developers at [https://clever.com/developers/docs/](https://clever.com/developers/docs/), or such future location as Clever chooses.
+“Documentation” means the manuals, specifications, requirements, support documentation, example code, tools, any and all of the application programming interface(s) that Clever makes generally available to Developers for access and use hereunder (collectively the “APIs”) and other instructions regarding the capabilities, operation, integration and use of the Services that Clever makes generally available to all of its Developers at https://dev.clever.com, or such future location as Clever chooses.
 
 “Marks” means a party’s corporate name, logo(s), product name, or product logo(s), as applicable.
 
