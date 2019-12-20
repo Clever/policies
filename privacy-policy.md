@@ -104,6 +104,14 @@ If you are not satisfied with our response, you can contact the iKeepSafe Safe H
 
 If a Student contacts Clever with a question about our Service, we will collect personal information from that Student only as necessary to respond to the Student's request and direct the Student to contact the Student's School, and we will then delete or anonymize the personal data of the Student after providing our response.
 
+### 8. JURISDICTION-SPECIFIC DISCLOSURES
+
+We may be required by law to provide additional privacy disclosures, depending on the jurisdiction in which you reside. Please refer below for disclosures that may be applicable to you:
+ 
+* *California.* If you are a California resident, please [click here](ccpa-notice.md) for additional California-specific privacy disclosures.
+ 
+* *Nevada.* Chapter 603A of the Nevada Revised Statutes permits a Nevada resident to opt out of future sales of certain covered information that a website operator has collected or will collect about the Nevada resident. At this time, we do not engage in data “sales” as defined by the Nevada law. However, if you would like to submit a request to opt-out of future sales (if any),  please contact us directly by visiting our [Help Center](https://support.clever.com/). You can also email us at _support@clever.com_ with the with the subject line “Nevada opt-out."
+
 ### 8. CHANGES TO OUR PRIVACY POLICY
 
 Clever may modify or update this Privacy Policy from time to time so you should review this page periodically. [Click here](privacy-policy.md)  to see all changes to this Privacy Policy. If we change the policy in a material manner, for example if we seek to use personal information in a materially different way than we had previously, we will provide at least 30 days notice to the Schools so that you have sufficient time to evaluate the change in practice. Of course, you can always opt-out by deleting your account before the changes take effect.
