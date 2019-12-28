@@ -116,5 +116,5 @@ We may be required by law to provide additional privacy disclosures, depending o
 
 Clever may modify or update this Privacy Policy from time to time so you should review this page periodically. [Click here](privacy-policy.md)  to see all changes to this Privacy Policy. If we change the policy in a material manner, for example if we seek to use personal information in a materially different way than we had previously, we will provide at least 30 days notice to the Schools so that you have sufficient time to evaluate the change in practice. Of course, you can always opt-out by deleting your account before the changes take effect.
 
-This privacy policy was last modified on October 11, 2019.
-Effective Date: October 11, 2019
+This privacy policy was last modified on December 19, 2019.
+Effective Date: January 1, 2020
