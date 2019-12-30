@@ -15,7 +15,8 @@ Click on the links below to jump to each section:
 5.  [Children's Privacy](#5-childrens-privacy)
 6.  [Links to Other Websites and Services](#6-links-to-other-web-sites-and-services)
 7.  [How to Contact Us](#7-how-to-contact-us)
-8.  [Changes to Our Privacy Policy](#8-changes-to-our-privacy-policy)
+8.  [Jurisdiction-Specific Disclosures](#8-jurisdiction-specific-disclosures)
+9.  [Changes to Our Privacy Policy](#9-changes-to-our-privacy-policy)
 
 ## _We strive to be transparent in our data collection and use practices. This is the type of personal information we may collect._
 
@@ -112,7 +113,7 @@ We may be required by law to provide additional privacy disclosures, depending o
  
 * *Nevada.* Chapter 603A of the Nevada Revised Statutes permits a Nevada resident to opt out of future sales of certain covered information that a website operator has collected or will collect about the Nevada resident. At this time, we do not engage in data “sales” as defined by the Nevada law. However, if you would like to submit a request to opt-out of future sales (if any),  please contact us directly by visiting our [Help Center](https://support.clever.com/). You can also email us at _support@clever.com_ with the with the subject line “Nevada opt-out."
 
-### 8. CHANGES TO OUR PRIVACY POLICY
+### 9. CHANGES TO OUR PRIVACY POLICY
 
 Clever may modify or update this Privacy Policy from time to time so you should review this page periodically. [Click here](privacy-policy.md)  to see all changes to this Privacy Policy. If we change the policy in a material manner, for example if we seek to use personal information in a materially different way than we had previously, we will provide at least 30 days notice to the Schools so that you have sufficient time to evaluate the change in practice. Of course, you can always opt-out by deleting your account before the changes take effect.
 
