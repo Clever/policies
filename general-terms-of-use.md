@@ -1,6 +1,6 @@
 # Clever General Terms of Use
 
-_Effective Date: April 1, 2020_
+_Effective Date: April 3, 2020_
 
 Welcome to Clever! We’re delighted to have you on our website and maybe even using our web and/or mobile services (collectively, the “Services”). Please continue reading to learn about the terms by which you may use our Services. If you have questions about this Agreement, please contact us by visiting our [Help Center](https://support.clever.com/).
 
