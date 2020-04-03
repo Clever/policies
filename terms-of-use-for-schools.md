@@ -1,6 +1,6 @@
 # Clever Additional Terms of Use for Schools
 
-_Effective Date: October 11, 2019_
+_Effective Date: April 3, 2020_
 
 Welcome to Clever’s Additional Terms of Use for Schools (the “Additional Terms for Schools”). If you are a School, please also review our [General Terms of Use](general-terms-of-use.md) and our [Privacy Policy](privacy-policy.md). If you’re not a School (as defined in the [General Terms of Use](general-terms-of-use.md)), these Additional Terms for Schools do not apply to you.
 
@@ -20,13 +20,19 @@ Both parties agree to uphold their responsibilities under the Family Educational
 
 You authorize us to access Student Data and will provide a way for us access the information stored in your SIS. We will access and process Student Data only in order to provide the Services. As between us, you own all right, title and interest to all Student Data, you are (and other Schools are) solely responsible for any and all Student Data, whether provided by you, students, or others, and we do not own, control, or license Student Data, except to provide the Services.
 
-**B. THIRD PARTY ACCESS**
+**B. PARENT ACCESS**
+
+You may provide access to Student Data to a student’s parent or legal guardian (a “Parent”) by inviting a Parent to create a Parent account. You acknowledge and agree that you, and any school official or administrative user that enables Parent access features, acknowledge that you will only provide Parent access to individual(s) who are authorized to access a student’s educational records and you are solely responsible are solely responsible for providing access only to individual(s) authorized by access a student’s educational records and for the consequences of providing access to Student Data to Parents through the Services. At any time, you can limit or revoke a Parent’s access to Student Data.
+
+As between us, you own all right, title and interest to all information you provide to Clever about Parents. However, if a Parent creates an account with Clever, that Parent account is owned and controlled by the Parent and is subject to the Additional Terms of Use for Parents between Clever and the Parent.
+
+**C. THIRD PARTY ACCESS**
 
 You may designate one or more third-party Developers to securely access Student Data via our API. We will not send Student Data to a Developer unless explicitly authorized by you. You acknowledge that we are not responsible for the data practices of third party Developers, and that, as between us, you are solely responsible for the consequences of providing or transmitting Student Data to such Developers, or authorizing those Developers to access Student Data through the Services. At any time, you can revoke any Developer’s ongoing access to Student Data via the API by visiting our [Help Center](https://support.clever.com/).
 
 We may disclose or provide access to Student Data to our employees and certain service providers with a legitimate need to access such information in connection with providing the Services. We and our employees, subcontractors, service providers, or agents involved in the handling, transmittal, and/or processing of Student Data will maintain the confidentiality of any data that includes personally identifiable information and shall not redisclose such data except as necessary in order to provide the Services. We will maintain access log(s) that record all disclosures of or access to Student Data within our possession and will provide copies of those access log(s) to you on your request.
 
-**C. OTHER ACCESS**
+**D. OTHER ACCESS**
 
 Student Data is controlled by Schools. Parents, legal guardians, and students can ask for their Student Data via their Schools. If there are any changes that need to be made in Clever, the district will upload the new Student Data to Clever.
 
