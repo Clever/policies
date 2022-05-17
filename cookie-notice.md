@@ -88,6 +88,6 @@ If we use cookies and similar technologies to collect personal information, or t
 
 ### 8\. CHANGES TO OUR COOKIE NOTICE
 
-Clever may modify or update this Cookie Notice from time to time so you should review this page periodically. [Click here](https://github.com/Clever/policies/releases) to see all changes to this Cookie Notice. You can see when this Cookie Notice was last updated by checking the "last modified" date indicated below.
+Clever may modify or update this Cookie Notice from time to time so you should review this Cookie Notice periodically. 
 
-**This Cookie Notice was last modified on May 13, 2022.** Effective Date: May 16, 2022
+This Cookie Notice is effective as of May 17, 2022.

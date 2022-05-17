@@ -54,4 +54,4 @@ As explained above, if we have collected and use your personal data at the direc
 
 **Changes to this European Notice.** Clever may modify or update this European Notice from time to time so you should review this European Notice periodically. If we change this European Notice in a material manner, for example if we seek to use personal information in a materially different way than we had previously, we will notify you of these changes.
 
-This European Notice is effective as of May 16, 2022.
+This European Notice is effective as of May 17, 2022.
