@@ -44,6 +44,7 @@ We use first-party and third-party cookies for several reasons. Some cookies are
 
 The first-party and third-party cookies served through our Services and the purposes they perform are described in more detail below.
 
+(See dynamically generated listing at https://clever.com/trust/privacy/cookies#cookie-list)
   
 
 ### 4\. TARGETING COOKIES
