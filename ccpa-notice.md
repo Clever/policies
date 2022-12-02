@@ -1,4 +1,8 @@
-# Privacy Disclosures for California Residents
+California Privacy Disclosures
+==============================
+
+Effective Date: June 30, 2022
+
 This Privacy Notice for California Residents (“CA Notice”) supplements the Clever Privacy Policy as well as any other agreement you may have with us. Any terms we use in this CA Notice that aren’t defined will have the meaning we provide in the Privacy Policy or other agreements.
 
 California law requires us to disclose certain information regarding the categories of personal information we collect. For purposes of this CA Notice, “personal information” has the meaning provided by the California Consumer Privacy Act (the “CCPA”) and does not include information that is publicly available, that is deidentified or aggregated such that it is not capable of being associated with us, or that is excluded from the CCPA’s scope, such as personal information covered by certain sector-specific privacy laws, such as the HIPAA, the FCRA, GLBA or the Driver's Privacy Protection Act of 1994.  This CA Notice does not apply to information relating to our employees, contractors, or other personnel.
@@ -40,5 +44,8 @@ When we disclose your personal information to our service providers, vendors or 
 You also have the right to be free of discrimination for exercising these rights. However, please note that if the exercise of these rights limits our ability to process personal information (such as in the case of a deletion request), we may no longer be able to provide you our products and services or engage with you in the same manner.
  
 **To Submit your California Consumer Rights Requests.** You may submit a request to exercise your California Consumer Rights through one of the mechanisms described below. We will need to verify your identity before processing your request, which may require us to request additional personal information from you or require you to log into your account, if you have one.  In certain circumstances, we may decline or limit your request, particularly where we are unable to verify your identity or locate your information in our systems, or as permitted by law.
-* To exercise your Right to Know, please use the [consumer rights form](https://assets.clever.com/website/files/ccpa-request.pdf) and email us at _support@clever.com_
-* To exercise your Right to Request Deletion, please use the [consumer rights form](https://assets.clever.com/website/files/ccpa-request.pdf) and email us at _support@clever.com_
+
+* To exercise your Right to Know, please use the [consumer rights form](https://assets.clever.com/website/files/ccpa-request.pdf) and email us at _[trust@clever.com](mailto:trust@clever.com)_
+* To exercise your Right to Request Deletion, please use the [consumer rights form](https://assets.clever.com/website/files/ccpa-request.pdf) and email us at _[trust@clever.com](mailto:trust@clever.com)_
+
+**Changes to this CA Notice.** Clever may modify or update this CA Notice from time to time so you should review this CA Notice periodically.

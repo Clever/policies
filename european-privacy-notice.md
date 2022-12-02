@@ -1,11 +1,13 @@
 European Privacy Notice
 =======================
 
+Effective Date: June 30, 2022
+
 This European Privacy Notice (“European Notice”) supplements the Clever [Privacy Policy](/trust/privacy/policy/) and applies to the information we collect and process about individuals located in the European Economic Area, Switzerland or the United Kingdom (collectively “Europe”).
 
 This European Notice provides additional information about how we collect and use your personal data and the rights you have under European data protection laws, like the General Data Protection Regulation ("GDPR"), when we process personal data about you as a controller. A "controller" is a term used in the GDPR to describe the legal entity that decides how and why your personal data is processed and is distinguished from a "processor", who is only permitted to personal data under the instruction of a controller.
 
-Like our general Privacy Policy, this European Notice applies to personal data we collect when you use our Services or otherwise interact with Clever (for example, through our Website). If you see a capitalized term that we have not defined in this European Notice, you can find its meaning in our general Privacy Policy.
+Like our general Privacy Policy, this European Notice applies to personal data we collect when you use our Services or otherwise interact with Clever (for example, through our Website). If you see a capitalized term that we have not defined in this European Notice, you can find its meaning in our general [Privacy Policy.](/trust/privacy/policy)
 
 **A note about Clever as a processor.** In general, we provide our Services to Schools. As a result, for much of the personal data we process through the Services, including Student Data, we act as a processor on behalf of a School and process personal data for the purposes of providing the Services specified in our agreement with the School. This means it is primarily our School customer, as the controller of your personal data, that controls what personal data we collect through the Services and how we use your data. If you have a question or would like to exercise any of your privacy rights in relation to personal data we process as a processor, please contact the relevant School directly. **This European Notice does not describe our practices with regard to personal data we process as a processor.**
 
@@ -21,9 +23,9 @@ Like our general Privacy Policy, this European Notice applies to personal data w
 |**To comply with our legal or regulatory obligations**|<ul><li>Comply with applicable statutes or regulations</li><li>Share information with law enforcement or other third parties when compelled to do so</li><li>To protect the rights, privacy, property, interests or safety of Clever or our affiliated companies, customers, users, employees or the general public</li></ul>|<ul><li>Name and account information</li><li>Other information as described above</li></ul>|
   
 
-Please see our Privacy Policy for more detailed information about our purposes for processing your personal data. If you have questions or need further information concerning the legal basis we rely on to collect and use your information, please email us at [support@clever.com](mailto:support@clever.com).
+Please see our Privacy Policy for more detailed information about our purposes for processing your personal data. If you have questions or need further information concerning the legal basis we rely on to collect and use your information, please email us at [trust@clever.com](mailto:trust@clever.com).
 
-**Cookies and similar tracking technologies.** Clever uses standard tracking technologies like cookies to distinguish you from other users and to collect certain information about how you use and interact with the Services (as described in our Privacy Policy). This helps us to provide you with a positive user experience and allows us to provide and improve our Services. For more information about the types of tracking technologies we use and how you can control them, please see our Cookie Notice.
+**Cookies and similar tracking technologies.** Clever uses standard tracking technologies like cookies to distinguish you from other users and to collect certain information about how you use and interact with the Services (as described in our [Privacy Policy](/trust/privacy/policy)). This helps us to provide you with a positive user experience and allows us to provide and improve our Services. For more information about the types of tracking technologies we use and how you can control them, please see our [Cookie Notice](/trust/privacy/cookies).
 
 **International Data Transfers.** We are based in the United States and any information collected through the Services is stored and processed in the United States. If you are located in Europe, you understand that in using the Services your personal data will be transferred to and processed in the United States and other countries where our third party service providers and partners operate. These countries may have data protection laws that are different to the laws of your country and, in some cases, may not be as protective.
 
@@ -46,12 +48,10 @@ Finally, although we hope you will resolve any issues you have with us directly 
 
 **To Submit your Privacy Rights Requests.** You may submit a request to exercise your rights under applicable data protection laws through the mechanism described below. We may need to verify your identity before processing your request, which may require us to request additional personal data from you or require you to log into your account, if you have one. In certain circumstances, we may decline or limit your request, particularly where we are unable to verify your identity or locate your information in our systems, or as permitted by law.
 
-If you would like to submit a privacy request, please email us at [support@clever.com](mailto:support@clever.com) with the subject line “GDPR request”.
+If you would like to submit a privacy request, please email us at [trust@clever.com](mailto:trust@clever.com) with the subject line “GDPR request”.
 
-**Controller's contact details.** Clever, Inc. is the controller of your personal data. There are several ways you can contact us. You can contact us by visiting our [Help Center](https://support.clever.com/), by emailing us at [support@clever.com](mailto:support@clever.com) or by mailing us at Clever Inc., ATTN: Legal Department, 1263 Mission St, San Francisco CA 94103, United States.
+**Controller's contact details.** Clever, Inc. is the controller of your personal data. There are several ways you can contact us. You can contact us by visiting our [Help Center](https://support.clever.com/) or by emailing us at [trust@clever.com](mailto:trust@clever.com)
 
 As explained above, if we have collected and use your personal data at the direction of and under the control of a School then we process your personal data as a processor. If this is the case, the School is the controller responsible for your personal data and you should contact that School if you have any privacy-related questions or concerns about their privacy practices.
 
 **Changes to this European Notice.** Clever may modify or update this European Notice from time to time so you should review this European Notice periodically. If we change this European Notice in a material manner, for example if we seek to use personal information in a materially different way than we had previously, we will notify you of these changes.
-
-This European Notice is effective as of May 17, 2022.

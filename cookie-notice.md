@@ -1,6 +1,8 @@
 Cookie Notice
 =============
 
+Effective Date: June 30, 2022.
+
 Clever provides a platform that enables Schools to securely provision the accounts with the third party applications that they use. This cookie notice ("Cookie Notice") explains how we use cookies and similar technologies in the course of our business, including through our website [https://clever.com/](/) ("Website") and the Clever platform ("Platform"), which we refer to collectively as our "Services". Cookies help us to provide you with a positive user experience and allows us to provide and improve our Services. If you have any questions or concerns about this Cookie Notice, please contact us using the details provided at the bottom of this page.
 
 Capitalized terms that are not defined in this Cookie Notice have the meaning given to them in our [Terms of Use](/trust/terms).
@@ -80,7 +82,6 @@ If you have any questions about this Cookie Notice, we recommend contacting us b
 Additionally, Clever can be reached:
 
 *   By Email: [trust@clever.com](mailto:trust@clever.com)
-*   By Mail: Clever Inc, ATTN: Legal Department, 1263 Mission St, San Francisco CA 94103
 *   By Phone: 1-800-521-6516
 
 If we use cookies and similar technologies to collect personal information, or to collect information that becomes personal information if we combine it with other information, we will process such personal information in accordance with our [Privacy Policy](/trust/privacy/policy).
@@ -89,6 +90,4 @@ If we use cookies and similar technologies to collect personal information, or t
 
 ### 8\. CHANGES TO OUR COOKIE NOTICE
 
-Clever may modify or update this Cookie Notice from time to time so you should review this Cookie Notice periodically. 
-
-This Cookie Notice is effective as of May 17, 2022.
+Clever may modify or update this Cookie Notice from time to time so you should review this Cookie Notice periodically.
