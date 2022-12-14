@@ -15,4 +15,4 @@ HOWTO: Open source your company's policies
 
 4. Let everyone know by tweeting your repository with the hashtag [#opensourceprivacy](https://twitter.com/search?q=opensourceprivacy&src=typd) and request addition to [PrivacyByChoice](http://privacybychoice.github.io/) page.
 
-As of June 2022, we NO longer updating this repo to reflect changes made to the Clever Privacy Policy. Instead, we are maintaining the change log history via this [page](https://clever.com/trust/privacy/change-history), and the respective privacy-change-history HTML file in the **website** repo will be the sole source of truth for changes.
+As of June 2022, we are no longer updating this repo to reflect changes made to the Clever Privacy Policy. Instead, we are maintaining the change log history via this [page](https://clever.com/trust/privacy/change-history).
